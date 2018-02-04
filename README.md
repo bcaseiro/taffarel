@@ -1,4 +1,4 @@
-########################################################################################################################################################
+# ###########################
 # FAQ:
 #
 # 1) What it does?
@@ -19,11 +19,11 @@
 #
 # 6) How do I run this tool?
 # Type: "python taffarel.py -h" for more information.
-#*******************************
-#Usage..: 
-#python taffarel.py 192.168.142.20 
-#python taffarel.py server01
-#python taffarel.py server01.btlab.ca
-#python taffarel.py 192.168.142.0/24
-#Author: Bruno Caseiro (bacaseiro@gmail.com) 
-#########################################################################################################################################################
+#
+# Usage..: 
+# python taffarel.py 192.168.142.20 
+# python taffarel.py server01
+# python taffarel.py server01.btlab.ca
+# python taffarel.py 192.168.142.0/24
+# Author: Bruno Caseiro (bacaseiro@gmail.com) 
+# #####################################################

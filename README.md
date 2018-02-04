@@ -27,3 +27,33 @@
 # python taffarel.py 192.168.142.0/24
 # Author: Bruno Caseiro (bacaseiro@gmail.com) 
 # #####################################################
+# 
+# 
+# 
+# This is a typical result or output:
+ 
+# ----------------------------------------------------------------------------------------------------
+# Finding Privileged Users on the network: 192.168.142.42/29 -------------       Please wait     
+# ----------------------------------------------------------------------------------------------------
+# 
+# Host is not accessible: 192.168.142.41
+# Host 192.168.142.42 responded successfully to the ping command
+# Host: 192.168.142.42 - Sudoer User: root - Permission: ALL = (ALL)NOPASSWD: ALL  # Linux Built-In account
+# Host: 192.168.142.42 - Sudoer User: svclinux - Permission: ALL = (ALL)NOPASSWD: ALL  
+# Host: 192.168.142.42 - Sudoer User: %sudoersfullaccess - Permission: ALL = (ALL)NOPASSWD: ALL 
+# Host: 192.168.142.42 - Sudoer User: german - Permission: ubuntu01.btlab.ca = (ALL)NOPASSWD: ALL
+# Host: 192.168.142.42 - Sudoer User: bruno - Permission: linuxsrv09 = (ALL)NOPASSWD: ALL
+# Host: 192.168.142.42 - Root User: root
+# Host is not accessible: 192.168.142.43
+# Host 192.168.142.44 responded successfully to the ping command
+# Host: 192.168.142.44 - Sudoer User: aline - Permission: ALL=(ALL:ALL) ALL
+# Host: 192.168.142.44 - Sudoer User: tomas - Permission: ALL = ALLNOPASSWD: ALL
+# Host: 192.168.142.44 - Sudoer User: %sudoersGroup - Permission: ALL=(ALL:ALL) ALL
+# Host: 192.168.142.44 - Root User: root
+# Host is not accessible: 192.168.142.45
+# Host is not accessible: 192.168.142.46
+ 
+# ----------------------------------------------------------------------------------------------------
+# Scan has been completed, please see the report /tmp/PrivilegedAccounts.xls                          
+# Note: In case of errors, please review the log file: /tmp/report.log                                
+# ----------------------------------------------------------------------------------------------------

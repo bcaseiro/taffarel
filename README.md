@@ -7,11 +7,13 @@ A video demonstration showing taffarel.py in action is available at - https://ww
 
 1) What it does?
 It will identify two type of Privileged Users on Linux/Unix systems. Root Users (ID 0) and Users who have some sort of sudoer's privilege. The results will be printed on the screen and also exported to a .XLS /tmp/PrivilegedAccounts.xls.
-
+#
+#
 2) Why this name "taffarel"? 
 #
 The insipiration was a goalkeeper - https://www.youtube.com/watch?v=HlCGkxgQ56c
- 
+#
+#
 3) Why I wrote this tool?
 #
 The goal is to assist sysadmins, IT auditors and other people to identify the most powerful privileged accounts on Linux/Unix systems so they can protect it properly.

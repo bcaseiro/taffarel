@@ -4,7 +4,7 @@ A video demonstration showing taffarel.py in action is available at - https://ww
 
 
 
-FAQ:
+# FAQ:
 
 1) What it does?
 

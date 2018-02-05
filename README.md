@@ -23,7 +23,7 @@ The goal is to assist sysadmins, IT auditors and other people to identify the mo
 
 4) Can I modify this tool?
 
-Sure, it's a free tool and it was coded in python to make things easier!
+Sure, it's a free and open-source tool.
 
 
 5) How to install it?
